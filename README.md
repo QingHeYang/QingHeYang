@@ -8,8 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=QingHeYang&show_icons=true&theme=tokyonight" alt="QingHeYang's GitHub Stats" />
 </p>
 
-
-
 ---
 
 ## 关于我 💡
@@ -20,6 +18,8 @@
 ---
 
 ## 技术栈 🔧
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QingHeYang&layout=compact)
+
 
 - **后端**：SpringBoot, MyBatis, MySQL, Redis, Docker, FastAPI, Flask  
 - **前端**：Vue, Element-UI, Vuex, Vue-Router, Axios  
