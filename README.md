@@ -4,22 +4,18 @@
 欢迎来到我的GitHub主页。
 
 <!-- GitHub Stats Card -->
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=QingHeYang&show_icons=true&theme=tokyonight" alt="QingHeYang's GitHub Stats" />
 </p>
 
-<!-- Visitor Count -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=QingHeYang&color=brightgreen" alt="visitor count" />
-</p>
+
 
 ---
 
 ## 关于我 💡
 
 - 🔭 **探索方向**：当前专注于AI应用相关工作，包括Fine-tuning、LLM、计算机视觉（CV）等领域  
-- 🌱 **热情不减**：虽然已经是两个孩子的爸爸，但对编程和技术的热爱始终不变  
-- 🚀 **多面经历**：从Android开发到嵌入式系统，再到AI应用，几乎无所不涉  
+- 🌱 **热情不减**：已经是两个孩子的爸爸，但是对于编程的依旧保持热爱
 
 ---
 
@@ -77,3 +73,7 @@ EasyAccounts 是我在2021年9月启动的个人项目，用于记录个人与�
 
 ---
 
+<!-- Visitor Count -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=QingHeYang&color=brightgreen" alt="visitor count" />
+</p>
